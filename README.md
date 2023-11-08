@@ -1,4 +1,4 @@
-# CARDIOCARE-FIGMA-PROTOTYPE
+# GERICO-FIGMA-PROTOTYPE
 
 ![](https://i.imgur.com/OgbNKRt.png)
 
